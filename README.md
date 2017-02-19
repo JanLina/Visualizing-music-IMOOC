@@ -2,6 +2,8 @@
 practice of webAudio API, canvas
 
 在项目目录下运行：supervisor bin/www    通过网址 http://127.0.0.1:3000/ 即可访问
+
+
 简略：
 从服务器获取到数据后，调用webAudio，webAudio负责播放音频和分析音频数据，并将分析后的数据传递给canvas，canvas将其可视化出来。
 
